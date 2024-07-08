@@ -2,9 +2,7 @@ pipeline {
 
     agent {
 
-        docker {image 'horuszup/horusec-cli:latest'
-               args '-p 8000:8000'
-               }
+        docker {image 'horuszup/horusec-cli:latest'}
     }
 
  

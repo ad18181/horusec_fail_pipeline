@@ -2,7 +2,9 @@ pipeline {
 
     agent {
 
-        docker {image 'horuszup/horusec-cli:latest' args '-v /var/run/docker.sock:/var/run/docker.sock -v $(which docker):$(which docker)'}
+        docker {image 'horuszup/horusec-cli:latest' 
+                args '-v /var/run/docker.sock:/var/run/docker.sock -v $(which docker):$(which docker)'
+               }
     }
 
  

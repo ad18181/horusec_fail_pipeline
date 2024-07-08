@@ -29,7 +29,7 @@ pipeline {
 
                 script {
 
-                    sh 'horusec start -p="./" --disable-docker="true" --config-file-path=horusec-config.json'
+                    sh 'horusec start -p="./" --disable-docker="true" --config-file-path=horusec-config.json -a 4f2421ee-58fc-419c-9537-39a2de4e264d'
 
                 }
 

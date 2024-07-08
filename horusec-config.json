@@ -30,7 +30,7 @@
   ],
   "horusecCliHeaders": {},
   "horusecCliHorusecApiUri": "http://0.0.0.0:8000",
-  "horusecCliJsonOutputFilepath": "/home/amogh.dixit/Projects/horusec/report.txt",
+  "horusecCliJsonOutputFilepath": "",
   "horusecCliLogFilePath": "/tmp/horusec-2024-07-03-16-53-43.log",
   "horusecCliMonitorRetryInSeconds": 15,
   "horusecCliPrintOutputType": "text",

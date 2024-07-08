@@ -29,7 +29,7 @@
     "**/.vscode/**"
   ],
   "horusecCliHeaders": {},
-  "horusecCliHorusecApiUri": "http://127.0.0.1:8043/api",
+  "horusecCliHorusecApiUri": "http://127.0.0.1:8043",
   "horusecCliJsonOutputFilepath": "",
   "horusecCliLogFilePath": "/tmp/horusec-2024-07-03-16-53-43.log",
   "horusecCliMonitorRetryInSeconds": 15,
